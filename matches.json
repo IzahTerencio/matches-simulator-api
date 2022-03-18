@@ -3,17 +3,17 @@
         "descricao": "Eliminatórias copa 2022",
         "local": {
                     "nome": "Maracanã",
-                    "imagem": "TODO"
+                    "imagem": "https://www.ultrajano.com.br/wp-content/uploads/2020/06/ARREGUY-2.png"
                  },
         "mandante": {
                         "nome": "Brasil",
                         "forca": 5,
-                        "imagem": "TODO"
+                        "imagem": "https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png"
                     },
         "visitante": {
                         "nome": "Argentina",
                         "forca": 5,
-                        "imagem": "TODO"
+                        "imagem": "https://imagepng.org/wp-content/uploads/2017/10/bandeira-argentina.png"
                     }
     }
 ]
