@@ -8,12 +8,12 @@
         "mandante": {
                         "nome": "Brasil",
                         "forca": 5,
-                        "imagem": "imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png"
+                        "imagem": "https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png"
                     },
         "visitante": {
                         "nome": "Argentina",
                         "forca": 5,
-                        "imagem": "imagepng.org/wp-content/uploads/2017/10/bandeira-argentina.png"
+                        "imagem": "https://imagepng.org/wp-content/uploads/2017/10/bandeira-argentina.png"
                     }
     },
     
@@ -21,17 +21,17 @@
         "descricao": "Eliminatórias copa 2022",
         "local": {
                     "nome": "Estádio Centenário",
-                    "imagem": "upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Estadio_Centenario_por_dentro.png/640px-Estadio_Centenario_por_dentro.png"
+                    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Estadio_Centenario_por_dentro.png/640px-Estadio_Centenario_por_dentro.png"
                  },
         "mandante": {
                         "nome": "Holanda",
                         "forca": 4,
-                        "imagem": "www.bandeirasnacionais.com/data/flags/ultra/nl.png"
+                        "imagem": "https://www.bandeirasnacionais.com/data/flags/ultra/nl.png"
                     },
         "visitante": {
                         "nome": "Brasil",
                         "forca": 5,
-                        "imagem": "imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png"
+                        "imagem": "https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png"
                     }
     },
 
@@ -39,17 +39,17 @@
         "descricao": "Eliminatórias copa 2022",
         "local": {
                     "nome": "Maracanã",
-                    "imagem": "www.ultrajano.com.br/wp-content/uploads/2020/06/ARREGUY-2.png"
+                    "imagem": "https://www.ultrajano.com.br/wp-content/uploads/2020/06/ARREGUY-2.png"
                  },
         "mandante": {
                         "nome": "Brasil",
                         "forca": 5,
-                        "imagem": "imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png"
+                        "imagem": "https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png"
                     },
         "visitante": {
                         "nome": "Espanha",
                         "forca": 3,
-                        "imagem": "imagepng.org/wp-content/uploads/2017/09/bandeira-espanha.png"
+                        "imagem": "https://imagepng.org/wp-content/uploads/2017/09/bandeira-espanha.png"
                     }
     }
 ]
